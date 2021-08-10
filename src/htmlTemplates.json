@@ -1,0 +1,4 @@
+{
+    "auth": "<form id=\"authForm\" method=\"POST\" action=\"/\" enctype=\"application/x-www-form-urlencoded\" novalidate=\"noValidate\"><div class=\"authInpContainer\"><label for=\"form_inp\">Введите ваш ник</label><input id=\"form_inp\" name=\"name\" placeholder=\"Введите ваш ник\" required /></div><button>Присоединится</button></form>",
+    "chat": "<div class=\"unlogin_container\"><div class=\"current_nick\">Ваш ник: <span id=\"currentNick\"></span></div><div id=\"unlogin\">Сменить ник</div></div><ul id=\"chat\"><li class=\"message\"></li></ul>"
+}
