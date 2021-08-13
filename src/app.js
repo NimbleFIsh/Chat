@@ -2,7 +2,7 @@ import html from './htmlTemplates.json';
 import emoji from './emoji.json';
 import emoji_full from './emoji_full.json'
 
-const HOST = 'localhost:3034';
+const HOST = 'chat-ws-nf.herokuapp.com';
 let lastIndex = null;
 
 // Функция перезапуска (сброс хранилища и запуск авторизации)
