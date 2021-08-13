@@ -1,5 +1,0 @@
-{
-    "auth": "<form id=\"authForm\" method=\"POST\" action=\"/\" enctype=\"application/x-www-form-urlencoded\" novalidate=\"noValidate\"><div class=\"authInpContainer\"><label for=\"form_inp\">Введите ваш ник</label><input id=\"form_inp\" name=\"name\" placeholder=\"Введите ваш ник\" required /></div><button>Присоединится</button></form>",
-    "chat": "<div class=\"unlogin_container\"><div class=\"current_nick\">Ваш ник: <span id=\"currentNick\"></span></div><div id=\"unlogin\">Сменить ник</div></div><div id=\"container\"><ul id=\"players\"><li class=\"player I\">You</li></ul><div id=\"chatCont\"><ul id=\"chat\"><li class=\"message\"></li></ul><div class=\"controls\"><div class=\"emoji_btn\"></div><div class=\"inp_container\"><textarea name=\"msg\" placeholder=\"Введите сообщение...\"></textarea><button type=\"button\">Отправить</button></div></div></div></div>",
-    "emModal": "<div id=\"emoji_container\"><ul id=\"emoji_last\"></ul><ul id=\"emoji\"></ul></div>"
-}
